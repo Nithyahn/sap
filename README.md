@@ -2,8 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/6d83ea64-2c0d-413d-b6bf-ef5d5b89fc74
-
+**URL**:https://sap-nithya-hns-projects.vercel.app/
 ## How can I edit this code?
 
 There are several ways of editing your application.
